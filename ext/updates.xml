@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="enkfidbnncpdopnflbphbgkgmaidianf">
-    <updatecheck codebase="https://wasifsohail5.github.io/prismx-extension-host/ext/aiguard-enkfidbnncpdopnf.crx" version="1.0.0" />
+    <updatecheck codebase="https://YOUR-HTTPS-HOST/aiguard/aiguard.crx" version="1.0.0" prodversionmin="64.0.3242" />
   </app>
 </gupdate>
